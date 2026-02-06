@@ -74,12 +74,12 @@ Exact color values were chosen to **closely resemble the original design**, with
 
 This project follows all assignment constraints:
 
-- ✅ **Use only HTML and CSS**
-- ❌ **No JavaScript**
-- ❌ **No TailwindCSS**
-- ❌ **No AI usage**
-- ❌ **No animations or fancy effects**
-- ❌ **No responsiveness required (desktop-only design)**
+- **Use only HTML and CSS**
+- **No JavaScript**
+- **No TailwindCSS**
+- **No AI usage**
+- **No animations or fancy effects**
+- **No responsiveness required (desktop-only design)**
 
 ---
 
