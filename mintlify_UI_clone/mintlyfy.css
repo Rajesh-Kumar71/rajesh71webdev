@@ -139,18 +139,14 @@ header button{
 }
 .hero form {
   margin: 20px auto;
-  width: 50%;
+  width: 51%;
   padding: 0.4rem 0.8rem;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.9);
   border: 1px solid rgba(255, 255, 255, 0.3);
   border-radius: 48px;
   backdrop-filter: blur(10px);
   background: transparent;
-  -webkit-backdrop-filter: blur(10px);
-  -webkit-border-radius: 100px;
-  -moz-border-radius: 100px;
-  -ms-border-radius: 100px;
-  -o-border-radius: 100px;
+ 
 }
 .hero form input {
   padding: 1.2rem 1.6rem;
